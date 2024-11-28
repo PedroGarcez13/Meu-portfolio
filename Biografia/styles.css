@@ -1,0 +1,119 @@
+
+* {
+    background-color: black;
+    margin: 2;
+    padding: 2;
+    box-sizing: border-box;
+}
+h1 {
+    color: orangered;
+}
+h1{
+    padding-left: 30px;
+}
+h1{
+    font-size: 60px;
+}
+p{
+    color: antiquewhite;
+}
+p{
+    max-width: 600px; 
+    overflow: show; 
+    text-overflow: ellipsis; 
+}
+h2{
+    color: orangered;
+}
+.nav_bar{
+ul{
+    color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: antiquewhite;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: #666;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #ddd;
+}
+li a.active {
+    color: white;
+    background-color: #04AA6D;
+}
+}
+img{
+    width: 170px;
+    height: 220px;
+}
+h2{
+    padding-left: 30px;
+}
+.lista_skillset ul{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    width: 200px;
+    background-color: #000000;
+}
+
+.lista_skillset li {
+    display: block;
+    color: antiquewhite;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: large;
+}
+.lista_skillset li:hover {
+        background-color: #555;
+        color: white;
+}
+.container {
+    display: flex;
+    padding-left: 30px;
+}
+.container p{
+    font-size: 20px;
+    margin-left: 20px;
+    padding-bottom: 0px;;
+}
+h2{
+    font-size: 40px;
+    margin: 0;
+    padding-top: 30px;
+}
+.conquistas{
+    margin-left: 87.285%;
+}
+.conquistas li a{
+    display: block;
+    color: antiquewhite;
+    background-color: orangered;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.conquistas{
+    li a:hover:not(.active){
+        background-color: red;
+}
+}
+
+
+
+
+
